@@ -111,7 +111,3 @@ USE_TZ = True
 STATIC_URL = '/static/'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR
-
-# LEAFLET_CONFIG = {
-#     'SPATIAL_EXTENT': (5.0, 44.0, 7.5, 46)
-# }
